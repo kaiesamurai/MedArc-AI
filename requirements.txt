@@ -1,0 +1,7 @@
+clarifai
+keras
+matplotlib
+numpy
+streamlit
+tensorflow
+groq
